@@ -1,7 +1,7 @@
 # VioletPang_Project4
 # FastAPI - Travelist
 
-This is the repository for individual project4 IDS706. In this project, a microservice on AWS is built by using AWS lambda function. 
+This is the repository for individual project4 IDS706. In this project, I built a FastAPI called Travelist for showing necessary item list that you mad need for traveling to a new city on AWS is built by using AWS lambda function. 
 You can also delopy this project onto AWS EC2 and run it on the cloud. 
 
 ![alt text](https://user-images.githubusercontent.com/65413798/204110894-6e32ebfc-b521-43eb-8fa1-ba6b09b2c341.png)
