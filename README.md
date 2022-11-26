@@ -4,6 +4,8 @@
 This is the repository for individual project4 IDS706. In this project, a microservice on AWS is built by using AWS lambda function. 
 You can also delopy this project onto AWS EC2 and run it on the cloud. 
 
+(https://user-images.githubusercontent.com/65413798/204110894-6e32ebfc-b521-43eb-8fa1-ba6b09b2c341.png)
+
 # Deploying to AWS EC2
 
 Log into your AWS account and create an EC2 instance (`t2.micro`), using the latest stable
