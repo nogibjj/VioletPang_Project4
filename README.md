@@ -79,5 +79,5 @@ Finally add the mai and json file to the zip:
 
 ```bash
 zip lambda_function.zip -u main.py
-zip lambda_function.zip -u books.json
+zip lambda_function.zip -u cities.json
 ```
