@@ -22,7 +22,7 @@ sudo apt install -y python3-pip nginx
 Clone the FastAPI server app (or create your `main.py` in Python).
 
 ```bash
-git clone https://github.com/pixegami/fastapi-tutorial.git
+git clone https://github.com/nogibjj/VioletPang_Project4
 ```
 
 Add the FastAPI configuration to NGINX's folder. Create a file called `fastapi_nginx` (like the one in this repository).
