@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Bahamas",
+    "city": "Nassau",
+    "type": "Beach, Resorts",
+    "necessary_items": "Passport, Sunscreens, Glasses, Swimsuit"
+  },
+  {
+    "country": "The United States",
+    "city": "New York",
+    "type": "City View, Museums",
+    "necessary_items": "IDs, Hotel Reservations, Museum ticket "
+  },
+  {
+    "country": "The United States",
+    "city": "Orlando",
+    "type": "Amusement parks",
+    "necessary_items": "Sunscreens, Rain Ponchos"
+    }
+]
